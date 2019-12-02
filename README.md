@@ -12,8 +12,8 @@ The simulator at this time, requires a discrete video card to run. Some CPU only
 
 To download the simulator use the following links
 
-- [Linux](https://apps.sdcar.ai/SimTrack1-0.1.0-Linux.zip) (if Vulkan does not work try adding -opengl to the command line. UE 4.23 will freeze your PC if you don't have enough video memory available ie no GPU)
-- [MacOS](https://apps.sdcar.ai/SimTrack1-0.1.0-Mac.zip) (requires latest metal based OS - used Catalina 10.15.1 for testing and the creation)
+- [Linux](http://apps.sdcar.ai/SimTrack1-0.1.0-Linux.zip) (if Vulkan does not work try adding -opengl to the command line. UE 4.23 will freeze your PC if you don't have enough video memory available ie no GPU)
+- [MacOS](http://apps.sdcar.ai/SimTrack1-0.1.0-Mac.zip) (requires latest metal based OS - used Catalina 10.15.1 for testing and the creation)
 - Windows 64 - coming soon (don't have access to a Windows machine and unable to cross compile the simulator)  
 
 Unzip into a directory. The program is called SimTrack1. When you start the following menu will be displayed
