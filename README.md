@@ -107,7 +107,7 @@ A socket.io server is available as [drive.py](https://github.com/hortovanyi/simt
 
 Start simtrack1 and press `2` to initiate auto mode. 
 
-![Simulator Auto](https://github.com/hortovanyi/simtrack1-ai-drive/blob/master/output/sim_recording.png?raw=true)
+![Simulator Auto](https://github.com/hortovanyi/simtrack1-ai-drive/blob/master/output/sim_auto.png?raw=true)
 
 You'll note a purple "Auto" indicator top right and a single middle camera viewport. You'll see in the terminal where the socket.io server is running when the simulator connects, as well as the steering and throttle values returned. In simtrack1, the vehicle will start moving and steering. For troubleshooting some code has been left commented out to save last images in `drive.py`.
 
